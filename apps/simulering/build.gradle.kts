@@ -27,7 +27,7 @@ dependencies {
     implementation("jakarta.xml.ws:jakarta.xml.ws-api:4.0.2")
     implementation("com.sun.xml.ws:jaxws-rt:4.0.3")
 
-    implementation("no.nav.utsjekk.kontrakter:oppdrag:1.0_20240829083905_36ac417")
+    implementation("no.nav.utsjekk.kontrakter:oppdrag:1.0_20241022151447_30ecf61")
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.0")
 
     testImplementation(kotlin("test"))
